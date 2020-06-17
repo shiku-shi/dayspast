@@ -1,0 +1,1149 @@
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - 134660327252951040
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - Cphs
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {
+134660327252951040,
+'Cphs,
+2195
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: 'Cphs№2195
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - !reload hlep
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload hlep
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !pdior
+[INFO] - !reload help
+[INFO] - !help
+[ERROR] - Discord is not defined
+[INFO] - !reload help
+[INFO] - !help
+[ERROR] - helpEmbed.addBlankField is not a function
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - undefined
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[ERROR] - command is not defined
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !hlep
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - Bot is ready.
+[INFO] - !nudes
+[ERROR] - message.send is not a function
+[INFO] - !help
+[INFO] - Bot is ready.
+[INFO] - !nudes
+[INFO] - !nudes
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - member is not defined
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - message.member.roles.cache is not a function
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - Cannot read property 'id' of undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - message.member.roles.cache.map.forEach is not a function
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, [object Map]
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, [object Map]
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, random(amount) {
+        let arr = this.array();
+        if (typeof amount === 'undefined')
+            return arr[Math.floor(Math.random() * arr.length)];
+        if (arr.length === 0 || !amount)
+            return [];
+        arr = arr.slice();
+        return Array.from({ length: amount }, () => arr.splice(Math.floor(Math.random() * arr.length), 1)[0]);
+    }
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, @everyone
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, <@&716351265516552212>
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, 716351265516552212,715287792653041694
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, 716351265516552212,716358273049296946,715287792653041694
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, 715287792653041694
+[INFO] - !reload teamkill
+[INFO] - !teamkill
+[INFO] - !teamkill 1
+[ERROR] - member is not defined
+[INFO] - !teamkill <@!134660327252951040>
+[ERROR] - member is not defined
+[INFO] - !reload teamkill
+[INFO] - !teamkill 1
+[INFO] - !teamkill 1
+[INFO] - !teamkill <@!134660327252951040>
+[ERROR] - taggedUser is not defined
+[INFO] - !reload teamkill
+[INFO] - !teamkill <@!715285795090726933>
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - !admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot read property 'users' of undefined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot read property 'create' of undefined
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - await is not defined
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins.create is not a function
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins.create is not a function
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !reload admin
+[ERROR] - await is only valid in async function
+[INFO] - !reload admin
+[ERROR] - await is only valid in async function
+[INFO] - !reload admin
+[ERROR] - await is only valid in async function
+[INFO] - !reload admin
+[ERROR] - await is only valid in async function
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot find module '/home/nxn/Bot/commands/models/Admins'
+Require stack:
+- /home/nxn/Bot/node_modules/sequelize/lib/sequelize.js
+- /home/nxn/Bot/node_modules/sequelize/index.js
+- /home/nxn/Bot/dbObjects.js
+- /home/nxn/Bot/index.js
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeValidationError: notNull Violation: admins.admin_id cannot be null
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - sequelize is not defined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot find module './dbInit'
+Require stack:
+- /home/nxn/Bot/commands/admin.js
+- /home/nxn/Bot/commands/reload.js
+- /home/nxn/Bot/index.js
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot read property 'create' of undefined
+[INFO] - Database synced
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot read property 'create' of undefined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - sequelize.import is not a function
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !reload admin
+[INFO] - !admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Cannot read property 'create' of undefined
+[INFO] - Bot is ready.
+[INFO] - Database synced
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeDatabaseError: SQLITE_ERROR: table admins has no column named admin_id
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeDatabaseError: SQLITE_ERROR: table admins has no column named admin_id
+[INFO] - Database synced
+[INFO] - Database synced
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Admins is not defined
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload amin
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !тгвуы
+[INFO] - !nudes
+[INFO] - !nudes
+[INFO] - !reload nudes
+[INFO] - !nudes
+[INFO] - !nudes
+[INFO] - !nudes
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, 716351265516552212,716731689421766737,715287792653041694
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Validation error
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - error is not defined
+[ERROR] - Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - error is not defined
+[ERROR] - Validation error
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - error is not defined
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload amdin
+[INFO] - !reload admin
+[INFO] - !reload amin
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - ok is not defined
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - ok is not defined
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - rejection is not defined
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[ERROR] - Unhandled promise rejection: [object Promise]
+[INFO] - !reload admin
+[ERROR] - missing ) after argument list
+[INFO] - !reload admin
+[ERROR] - Unexpected identifier
+[INFO] - !reload admin
+[ERROR] - missing ) after argument list
+[INFO] - !reload admin
+[ERROR] - await is only valid in async function
+[INFO] - Bot is ready.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - boop: SequelizeUniqueConstraintError: Validation error
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[ERROR] - boop: SequelizeUniqueConstraintError: Validation error
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[INFO] - !admin <@!134660327252951040> <@!715285795090726933>
+[ERROR] - boop: SequelizeUniqueConstraintError: Validation error
+[ERROR] - boop: SequelizeUniqueConstraintError: Validation error
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - boop: SequelizeUniqueConstraintError: Validation error
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User Cphs already an admin.
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - async user => {
+                await Admins.findOne({
+                    where: {
+                        admin_id: message.author.id,
+                    }
+                });
+            }
+[INFO] - !reload help
+[ERROR] - missing ) after argument list
+[INFO] - !reload help
+[ERROR] - Unexpected token ')'
+[INFO] - !reload help
+[INFO] - !help
+[ERROR] - Admins is not defined
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - !reload help
+[INFO] - !help
+[INFO] - Bot is ready.
+[INFO] - !admin <@&716351265516552212>
+[INFO] - !reload admin
+[INFO] - !admin <@&716351265516552212>
+[INFO] - !reload admin
+[INFO] - !admin <@&716351265516552212>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - !allowrole
+[INFO] - !allowrole <@&716351265516552212>
+[INFO] - !allowrole <@!134660327252951040>
+[INFO] - !allowrole <@!134660327252951040>
+[INFO] - !reload allowrole
+[INFO] - !allowrole <@!134660327252951040>
+[INFO] - !allowrole <@&716358273049296946>
+[INFO] - Bot is ready.
+[INFO] - !allowrole <@&716358273049296946>
+[ERROR] - Validation error
+[INFO] - Bot is ready.
+[INFO] - !allowrole <@&716358273049296946>
+[WARN] - Role 716358273049296946 already an admin.
+[INFO] - Bot is ready.
+[INFO] - !allowrole <@&716358273049296946>
+[WARN] - Role 716358273049296946 already exists.
+[INFO] - !allowrole <@&716351265516552212>
+[INFO] - Bot is ready.
+[INFO] - !reload allowrole
+[INFO] - !allowrole <@!134660327252951040>
+[INFO] - !reload allowrole
+[INFO] - !allowrole <@&716351265516552212>
+[INFO] - !allowrole <@&716351265516552212>
+[INFO] - !allowrole <@&716351265516552212>
+[INFO] - !allowrole <@&716351265516552212>
+[WARN] - Role 716351265516552212,Сижка already exists.
+[INFO] - !admin 2tr43r
+[INFO] - !allowrole ergdf
+[INFO] - Bot is ready.
+[INFO] - Database synced
+[INFO] - Database synced
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - !register <@!134660327252951040>
+[INFO] - !register <@!134660327252951040>
+[INFO] - !register <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs already exists.
+[INFO] - !register dsfg
+[INFO] - Database synced
+[INFO] - Database synced
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - Database synced
+[INFO] - Database synced
+[INFO] - Database synced
+[INFO] - Bot is ready.
+[INFO] - !register <@!134660327252951040>
+[INFO] - !reload register
+[INFO] - !register <@!134660327252951040>
+[INFO] - undefined
+[INFO] - !reload register
+[INFO] - !register <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs already exists.
+[INFO] - !register <@!134660327252951040>
+[INFO] - 3
+[INFO] - !reload register
+[INFO] - !register <@!134660327252951040>
+[INFO] - 4
+[INFO] - !reload register
+[INFO] - !register <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs already exists.
+[INFO] - !register <@!134660327252951040>
+[INFO] - 5
+[ERROR] - SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+[INFO] - !reload <@!134660327252951040>
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - {134660327252951040: Cphs#2195}, 716351265516552212,716731689421766737,715287792653041694
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs already an admin.
+[ERROR] - Unhandled promise rejection: SequelizeDatabaseError: SQLITE_ERROR: no such column: admins.user_id
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs already an admin.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !reload admin
+[INFO] - !admin
+[INFO] - !admin 123
+[INFO] - undefined
+[INFO] - !reload admin
+[INFO] - !admin 13
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - async() => { await Admins.findOne({ 
+            where: { admin_id: message.author.id }
+        })
+        .catch (error => {logger.log('error', error)})}
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !debug
+[INFO] - async() => { await Admins.findOne({ 
+            where: { admin_id: message.author.id }
+        })
+        .catch (error => {logger.log('error', error)})}
+[INFO] - !reload admin
+[INFO] - !admin
+[INFO] - !debug
+[INFO] - async() => { await Admins.findOne({ 
+            where: { admin_id: message.author.id }
+        })
+        .catch (error => {logger.log('error', error)})}
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload admin
+[INFO] - !admin
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - 134660327252951040
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - !debug
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - Cannot read property 'id' of null
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !debug
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - !reload debiug
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - !reload debug
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - undefined
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - undefined
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !debug
+[INFO] - !debug
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !debug
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[ERROR] - Unhandled promise rejection: [object Promise]
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - undefined
+[INFO] - !debug
+[ERROR] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !admin <@!134660327252951040>
+[WARN] - undefined
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !admin <@!134660327252951040>
+[WARN] - undefined
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - !admin <@!134660327252951040>
+[WARN] - undefined
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[WARN] - undefined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[ERROR] - Admins.findIfAdmin is not a function
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !debug
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[INFO] - !admin <@!134660327252951040>
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - Anauthorized try by user Cphs
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - Anauthorized try by user Cphs
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - Bot is ready.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - User 134660327252951040,Cphs is already an admin.
+[INFO] - !admin <@!134660327252951040>
+[WARN] - Anauthorized try by user Cphs
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - !nudes
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[INFO] - !admin @sdf
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !teamkill <@!134660327252951040>
+[WARN] - Anauthorized try by user Cphs
+[INFO] - !register <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - 6
+[INFO] - !teamkill <@!134660327252951040>
+[WARN] - Anauthorized try by user Cphs
+[INFO] - !allowrole <@&716358273049296946>
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[ERROR] - Unhandled promise rejection: ReferenceError: event_date is not defined
+[INFO] - !reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[ERROR] - Unhandled promise rejection: ReferenceError: event_date is not defined
+[INFO] - !reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - !reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - !reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - !reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill ыва
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - !teamkill <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[ERROR] - guild is not defined
+[INFO] - Bot is ready.
+[INFO] - !debug
+[INFO] - Auth success for Cphs
+[ERROR] - guild is not defined
+[INFO] - Bot is ready.
+[INFO] - !help
+[INFO] - !allowrole <@&688042775438033006> <@&688043135380750355> <@&688043472283893771>
+[INFO] - Auth success for Cphs
+[INFO] - !register <@!134660327252951040> <@!200657886467194880> <@!146955219958366218> <@!319897747815792650> <@!360863657925672982> <@!330808569085689856> <@!323858994357731328>
+[INFO] - Auth success for Cphs
+[WARN] - User 134660327252951040,Cphs already exists.
+[INFO] - 7
+[INFO] - 11
+[INFO] - 10
+[INFO] - 8
+[INFO] - 9
+[INFO] - 12
+[INFO] - !admin <@!146955219958366218>
+[INFO] - Auth success for Cphs
+[INFO] - !help
+[INFO] - !nudes
+[INFO] - Bot is ready.
+[INFO] - .help
+[INFO] - .nudes
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'roles' of null
+[INFO] - Bot is ready.
+[INFO] - .nudes
+[INFO] - .nudes
+[INFO] - .nudes
+[INFO] - .nudes
+[INFO] - .teamkill <@!146955219958366218>
+[INFO] - Auth success for Cphs
+[INFO] - .teamkill <@!146955219958366218>
+[INFO] - Auth success for Benks
+[INFO] - .reload teamkill
+[INFO] - Auth success for Cphs
+[INFO] - .teamkill <@!146955219958366218>
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - Bot is ready.
+[INFO] - .help
+[INFO] - .nudes
+[INFO] - .help
+[INFO] - .nudes
+[INFO] - Bot is ready.
+[INFO] - .nudes
+[INFO] - .nudes
+[ERROR] - A websocket connection encountered an error: Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+[INFO] - .debug
+[INFO] - Auth success for Cphs
+[INFO] - .nudes
+[INFO] - .nudes
+[INFO] - .help
+[INFO] - .teamkill mixotk
+[INFO] - Auth success for mixotk
+[INFO] - .teamkill <@!330808569085689856>
+[INFO] - Auth success for mixotk
+[INFO] - Bot is ready.
+[INFO] - .check
+[INFO] - .Check
+[INFO] - .reload check
+[INFO] - Auth success for Cphs
+[INFO] - .check
+[INFO] - .check
+[INFO] - .reload check
+[INFO] - Auth success for Cphs
+[INFO] - .check
+[INFO] - .reload check
+[INFO] - Auth success for Cphs
+[INFO] - .check
+[INFO] - .check <@!319897747815792650>
+[INFO] - .check <@!200657886467194880>
+[INFO] - .help
+[INFO] - .help
+[INFO] - .check <@!330808569085689856>
+[INFO] - .check <@!146955219958366218>
+[INFO] - .check <@!330808569085689856>
+[INFO] - .teamkill
+[INFO] - .teamkill
+[INFO] - .help
+[INFO] - .teamkill
+[INFO] - .reload debug
+[INFO] - Auth success for Cphs
+[INFO] - .debug
+[INFO] - Auth success for Cphs
+[ERROR] - client is not defined
+[INFO] - .reload debug
+[INFO] - Auth success for Cphs
+[INFO] - .debug
+[INFO] - Auth success for Cphs
+[ERROR] - Cannot read property 'id' of undefined
+[INFO] - .debug <@!134660327252951040>
+[INFO] - Auth success for Cphs
+[INFO] - .debug <@!715285795090726933>
+[INFO] - Auth success for Cphs
+[INFO] - .reload debug
+[INFO] - Auth success for Cphs
+[INFO] - Bot is ready.
+[INFO] - .debug
+[INFO] - Auth success for Cphs
+[INFO] - .help
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - .help
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - .help
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - .check <@!319897747815792650>
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - .check <@!146955219958366218>
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - ...
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - Bot is ready.
+[ERROR] - Unhandled promise rejection: TypeError: Cannot read property 'id' of undefined
+[INFO] - Bot is ready.
+[INFO] - 1591278929586 - Bot is ready.
+[INFO] - 1591278939887 - Bot is ready.
+[INFO] - Thu Jun 04 2020 17:41:22 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Thu Jun 04 2020 17:45:50 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Thu Jun 04 2020 17:46:01 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Fri Jun 05 2020 16:56:31 GMT+0300 (Moscow Standard Time) - .check <@!134660327252951040>
+[INFO] - Sat Jun 06 2020 17:18:26 GMT+0300 (Moscow Standard Time) - .teamkill <@!319897747815792650>
+[INFO] - Sat Jun 06 2020 17:18:26 GMT+0300 (Moscow Standard Time) - Auth success for Benks
+[INFO] - Sun Jun 07 2020 14:10:29 GMT+0300 (Moscow Standard Time) - .check <@!319897747815792650>
+[INFO] - Sun Jun 07 2020 14:10:44 GMT+0300 (Moscow Standard Time) - .check <@!330808569085689856>
+[INFO] - Sun Jun 07 2020 14:10:46 GMT+0300 (Moscow Standard Time) - .check <@!330808569085689856>
+[INFO] - Sun Jun 07 2020 14:10:46 GMT+0300 (Moscow Standard Time) - .check <@!200657886467194880>
+[INFO] - Sun Jun 07 2020 14:10:53 GMT+0300 (Moscow Standard Time) - .check <@!146955219958366218>
+[INFO] - Sun Jun 07 2020 14:11:16 GMT+0300 (Moscow Standard Time) - .check <@!360863657925672982>
+[INFO] - Sun Jun 07 2020 14:11:22 GMT+0300 (Moscow Standard Time) - .check <@!134660327252951040>
+[INFO] - Sun Jun 07 2020 14:11:38 GMT+0300 (Moscow Standard Time) - .check @Jesus
+[INFO] - Sun Jun 07 2020 14:11:51 GMT+0300 (Moscow Standard Time) - .check <@!323858994357731328>
+[INFO] - Sun Jun 07 2020 14:11:58 GMT+0300 (Moscow Standard Time) - .check <@!374657292861177856>
+[ERROR] - Sun Jun 07 2020 14:11:58 GMT+0300 (Moscow Standard Time) - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - Sun Jun 07 2020 14:12:55 GMT+0300 (Moscow Standard Time) - .check <@!264793056534986753>
+[ERROR] - Sun Jun 07 2020 14:12:55 GMT+0300 (Moscow Standard Time) - Unhandled promise rejection: TypeError: Cannot read property 'id' of null
+[INFO] - Sun Jun 07 2020 16:53:05 GMT+0300 (Moscow Standard Time) - .check <@!330808569085689856>
+[INFO] - Sun Jun 07 2020 20:32:34 GMT+0300 (Moscow Standard Time) - .teamkill <@!319897747815792650>
+[INFO] - Sun Jun 07 2020 20:32:34 GMT+0300 (Moscow Standard Time) - Auth success for Benks
+[INFO] - Fri Jun 12 2020 01:17:12 GMT+0300 (Moscow Standard Time) - .allowrole <@&702191680601849947>
+[INFO] - Fri Jun 12 2020 01:17:12 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 01:17:29 GMT+0300 (Moscow Standard Time) - .register <@!374657292861177856>
+[INFO] - Fri Jun 12 2020 01:17:29 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 01:17:30 GMT+0300 (Moscow Standard Time) - 13
+[INFO] - Fri Jun 12 2020 01:18:01 GMT+0300 (Moscow Standard Time) - .check <@!374657292861177856>
+[INFO] - Fri Jun 12 2020 14:50:05 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Fri Jun 12 2020 14:50:58 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Fri Jun 12 2020 14:52:05 GMT+0300 (Moscow Standard Time) - .check
+[INFO] - Fri Jun 12 2020 15:28:11 GMT+0300 (Moscow Standard Time) - .reload register
+[INFO] - Fri Jun 12 2020 15:28:11 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 15:44:00 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Fri Jun 12 2020 15:53:30 GMT+0300 (Moscow Standard Time) - .reload teamkill
+[INFO] - Fri Jun 12 2020 15:53:31 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 15:59:39 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Fri Jun 12 2020 16:05:08 GMT+0300 (Moscow Standard Time) - .reload check
+[INFO] - Fri Jun 12 2020 16:05:09 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 16:05:22 GMT+0300 (Moscow Standard Time) - .check
+[INFO] - Fri Jun 12 2020 16:05:39 GMT+0300 (Moscow Standard Time) - .check <@!330808569085689856>
+[INFO] - Fri Jun 12 2020 16:06:08 GMT+0300 (Moscow Standard Time) - .check <@!330808569085689856>
+[INFO] - Fri Jun 12 2020 16:06:18 GMT+0300 (Moscow Standard Time) - .check af
+[INFO] - Fri Jun 12 2020 16:11:37 GMT+0300 (Moscow Standard Time) - .reload check
+[INFO] - Fri Jun 12 2020 16:11:37 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 16:11:40 GMT+0300 (Moscow Standard Time) - .check afsd
+[INFO] - Fri Jun 12 2020 16:12:56 GMT+0300 (Moscow Standard Time) - .reload check
+[INFO] - Fri Jun 12 2020 16:12:56 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 16:12:58 GMT+0300 (Moscow Standard Time) - .check
+[INFO] - Fri Jun 12 2020 16:13:01 GMT+0300 (Moscow Standard Time) - .check 234
+[INFO] - Fri Jun 12 2020 16:16:51 GMT+0300 (Moscow Standard Time) - .reload check
+[INFO] - Fri Jun 12 2020 16:16:51 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Fri Jun 12 2020 16:16:59 GMT+0300 (Moscow Standard Time) - .check <@!264793056534986753>
+[INFO] - Fri Jun 12 2020 16:17:30 GMT+0300 (Moscow Standard Time) - .check
+[INFO] - Fri Jun 12 2020 16:21:24 GMT+0300 (Moscow Standard Time) - .reload teamkill
+[INFO] - Fri Jun 12 2020 16:21:24 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Sat Jun 13 2020 13:48:13 GMT+0300 (Moscow Standard Time) - .пыщ
+[INFO] - Sat Jun 13 2020 14:04:44 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Sat Jun 13 2020 14:21:06 GMT+0300 (Moscow Standard Time) - .debug
+[INFO] - Sat Jun 13 2020 14:21:06 GMT+0300 (Moscow Standard Time) - Auth success for Cphs
+[INFO] - Wed Jun 17 2020 01:33:36 GMT+0300 (Moscow Standard Time) - .help
+[INFO] - Wed Jun 17 2020 01:33:58 GMT+0300 (Moscow Standard Time) - .teamkill @Партизан Хентай
+[INFO] - Wed Jun 17 2020 01:33:58 GMT+0300 (Moscow Standard Time) - Auth success for Borschik
+[INFO] - Wed Jun 17 2020 01:34:07 GMT+0300 (Moscow Standard Time) - .teamkill <@!330808569085689856>
+[INFO] - Wed Jun 17 2020 01:34:07 GMT+0300 (Moscow Standard Time) - Auth success for Borschik
+[INFO] - Wed Jun 17 2020 20:06:27 GMT+0300 (Moscow Standard Time) - .teamkill <@!200657886467194880>
+[INFO] - Wed Jun 17 2020 20:06:27 GMT+0300 (Moscow Standard Time) - Auth success for Benks
+[INFO] - Wed Jun 17 2020 20:31:27 GMT+0300 (Moscow Standard Time) - Bot is ready.
+[INFO] - Wed Jun 17 2020 20:39:30 GMT+0300 (Moscow Standard Time) - Bot is ready.
