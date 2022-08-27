@@ -12,7 +12,7 @@ logger = winston.createLogger({
         new winston.transports.Console(),
         new winston.transports.File({ filename: 'log' }),
     ],
-    format: winston.format.printf(log => `[${log.level.toUpperCase()}] - ${Date(Date.now())} - ${log.message}`)
+    format: winston.format.printf(log => `[${log.level.toUpperCase()}] - ${Date(Date.now()).replace(' GMT+0300 (Moscow Standard Time)', '')} - ${log.message}`)
 });
 
 client.commands = new Discord.Collection();
@@ -39,13 +39,13 @@ client.on('message', async message => {
         if (!message.content.startsWith(prefix) && message.mentions.users.first().id === '715285795090726933') return message.reply(`отправь ${prefix}help для списка команд.`);
     }
     if (!message.content.startsWith(prefix) || message.author.bot) return;
-    logger.log('info', message.content);
+    logger.log('info', `${message.author.username}: ${message.content}`);
     const args = message.content.slice(prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
-    if (!client.commands.has(commandName)) return;
 
     const command = client.commands.get(commandName)
-        || client.commands.find(cmd => cmd.aliases && cmd.aliases.include(commandName));
+        || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
+    if (!command) return;
 
     if (command.guildOnly && message.channel.type !== 'text') {
         return message.reply('Ты чё охуел в крысу доносы писать?')
@@ -62,7 +62,7 @@ client.on('message', async message => {
     if (!cooldowns.has(command.name)) {
         cooldowns.set(command.name, new Discord.Collection());
     }
-    
+
     const now = Date.now();
     const timestamps = cooldowns.get(command.name);
     const cooldownAmount = (command.cooldown || 3) * 1000;
@@ -75,7 +75,7 @@ client.on('message', async message => {
             return message.reply(`${timeLeft.toFixed(1)} сек, я не успеваю записывать. Повтори про \`${command.name}\` позже.`)
         }
     }
-    
+
     if (command.admin) {
         const admin = await Admins.findOne({ where: { admin_id: message.author.id }});
         if (!admin)  {

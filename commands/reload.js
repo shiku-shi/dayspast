@@ -1,5 +1,6 @@
 module.exports = {
-	name: 'reload',
+    name: 'reload',
+    aliases: ['r'],
     description: 'Reloads a command',
     admin: true,
 	execute(message, args) {
@@ -15,7 +16,8 @@ module.exports = {
             message.client.commands.set(newCommand.name, newCommand);
         } catch (error) {
             logger.log('error', error);
-            message.channel.send(`Error reloading \`${command.name}\`:\n\`${error.message}\``);
+            message.channel.send(`Error reloading \`${command.name}\``);
+            // message.channel.send(`Error reloading \`${command.name}\`:\n\`${error.message}\``);
         }
         message.channel.send(`Command \`${command.name}\` was reloaded successfully.`)
     }

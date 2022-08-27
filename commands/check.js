@@ -19,6 +19,7 @@ module.exports = {
                 if (!killer) { return message.reply(`у меня нет досье на ${message.mentions.users.first()}`)};
             }
             const lastDate = await Events.max('event_date', { where: { userId: killer.id }});
+            logger.log('debug', lastDate);
             const now = Date.now();
             const totalTks = await Events.count({ where: { userId: killer.id }});
             let reply;
@@ -49,9 +50,15 @@ module.exports = {
                         break;
                 }
                 if (selfcheck) {
-                    return message.reply(`времени прошло с предыдущего убийства: ${daysPast.toFixed()} ${mu}.\nВсего ты убивал своих ${totalTks} раз.`);
+                    reply = `времени прошло с предыдущего убийства: ${daysPast.toFixed()} ${mu}.`;
+                    reply += `\nВсего ты убивал своих ${totalTks} раз.`;
+                    if (lastDate.quote) reply += `\nКомментарий, сопуствующий событию: ${lastDate.quote}`;
+                    return message.reply(reply);
                 } else {
-                    return message.channel.send(`Времени прошло с предыдущего убийства: ${daysPast.toFixed()} ${mu}.\nВсего ${message.mentions.users.first()} убивал своих ${totalTks} раз.`);
+                    reply = `Времени прошло с предыдущего убийства: ${daysPast.toFixed()} ${mu}.`;
+                    reply += `\nВсего ${message.mentions.users.first()} убивал своих ${totalTks} раз.`;
+                    if (lastDate.quote) reply += `\nКомментарий, сопуствующий событию: ${lastDate.quote}`;
+                    return message.channel.send(reply);
                 }
             };
             if (selfcheck) {
